@@ -1,5 +1,7 @@
-# example-app-router
+# example-app-router-next-auth
 
-An example that showcases usage of `next-intl` with the App Router.
+An example that showcases the usage of `next-intl` together with Auth.js and the App Router.
 
-[Demo](https://next-intl-example-app-router.vercel.app/)
+**Credentials**: admin / admin
+
+See [the corresponding docs for this example](https://next-intl-docs.vercel.app/docs/routing/middleware#example-auth-js).
